@@ -1,0 +1,7 @@
+include ':mobile-ui'
+include ':Presentation'
+include ':cache'
+include ':Remote'
+include ':Data'
+include ':Domain'
+rootProject.name = "CleanArchitectureSample"

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CleanArchitectureSample.iml" filepath="$PROJECT_DIR$/.idea/modules/CleanArchitectureSample.iml" group="CleanArchitectureSample" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Data/Data.iml" filepath="$PROJECT_DIR$/.idea/modules/Data/Data.iml" group="CleanArchitectureSample/Data" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Domain/Domain.iml" filepath="$PROJECT_DIR$/.idea/modules/Domain/Domain.iml" group="CleanArchitectureSample/Domain" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Presentation/Presentation.iml" filepath="$PROJECT_DIR$/.idea/modules/Presentation/Presentation.iml" group="CleanArchitectureSample/Presentation" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Remote/Remote.iml" filepath="$PROJECT_DIR$/.idea/modules/Remote/Remote.iml" group="CleanArchitectureSample/Remote" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cache/cache.iml" filepath="$PROJECT_DIR$/.idea/modules/cache/cache.iml" group="CleanArchitectureSample/cache" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mobile-ui/mobile-ui.iml" filepath="$PROJECT_DIR$/.idea/modules/mobile-ui/mobile-ui.iml" group="CleanArchitectureSample/mobile-ui" />
+    </modules>
+  </component>
+</project>
